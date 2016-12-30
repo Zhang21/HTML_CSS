@@ -1,0 +1,12 @@
+<-! 认识 HTML （Web语言） -->
+
+# 认识基本 HTML 和 CSS
+# HTML(Hyper Text Markup Language）超文本标记语言，创建结构
+# CSS(Cascading Style Sheets）层叠样式表，创建样式
+# 与试图使用一种语言兼顾这两方面的工作相比，实际上学习两种语言让它们各司其职反而更容易
+# HTML 会告诉浏览器文档的结构，标题放在哪，段落放在哪。哪些文本需要强调
+# 首部（head）：包含 web 页面的有关信息
+# 页面主题（body）：包含 web 页面的所有内容和结构
+# 元素 = 开始标记 + 内容 + 结束标记 （ element = <> + content + </> ），某些例外
+# 属性(如 type="text/css"） 能提供元素的一些额外信息
+# <Style> 元素 放在 HTML 首部
