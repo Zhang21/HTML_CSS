@@ -1,0 +1,32 @@
+@font-face {
+    font-family: "Emblema One";
+    src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
+         url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+}
+
+body {
+    margin-right: 20%;
+    margin-left: 20%;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: small;
+<!--    字体大小建议使用关键字（small、medium），不建议使用像素（px）   -->
+}
+
+h1 {
+    font-size: 200%;
+    font-family: "Emblema One";
+}
+
+h2 {
+    font-size: 140%;
+    font-weight: normal;
+}
+
+h1, h2 {
+    color: #0cb8cc;
+    text-decoration: line-through;
+}
+
+blockquote, q {
+    font-style: italic;
+}
