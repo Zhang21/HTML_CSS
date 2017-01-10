@@ -1,0 +1,42 @@
+#  chap9:盒模型
+
+
+#  CSS 使用一个盒模型来控制元素如何显示
+#  盒子由内容区（Content）和可选的内边距（padding）、边框（border）、外边距组成（margin）
+#  内容区包含元素的内容
+#  内边距用来在内容区周围创建可见的空间
+#  边框包围内边距和内容，它提供了从视觉上分离内容的一种手段
+#  外边距包围边框、内边距和内容，允许在元素和其他元素之间增加空间
+#  元素的背景会在内容和内边距下显示，但不会延伸到外边距下面
+#  内边距和外边距大小可以用像素或百分数设置
+#  边框宽度可以用像素设置，也可以使用关键字 thin、medium、thick来指定
+#  有八种不同的边框样式，包括实线、破折线、虚线和脊线
+#  对于外边距、内边距或边框，CSS 提供了相应的属性，可以一次对所有四个边（上、下、左、右）完成设置，也可以单独设置任意一边
+#  使用 border-radius 属性可以对有边框的元素创建圆角
+#  使用 line-height 属性可以增加文本行之间的间距
+#  可以用 background-image 属性在元素的背景上放置图像
+#  使用 background-repeat 和 background-position 属性可以设置背景图像的平铺行为和位置
+#  对于希望成组指定样式的元素要使用 class 属性
+#  使用 id 属性为元素指定一个唯一的名字。还可以使用 id 属性为元素提供唯一的样式
+#  可以使用 id 选择器按 id 选择元素。例如 #myfavoriteid
+#  一个元素只能有一个 id，不过它可以属于多个类
+#  在 HTML 中可以使用多个样式表
+#  如果两个样式表包含冲突的属性定义，HTML 文件中最后链接的样式表最为优先
+#  可以在 <link> 元素中使用媒体查询或者使用 CSS 中的 @media 规则来指定设备
+
+
+
+# elements：
+
+        # padding-left：
+        # margin-right：
+        # padding-top:
+        # margin-bottom：
+        # border-radius：
+        # border-top-left-radius：
+        # border-right-bottom-radius：
+        # border-left-style：solid实线 / double双线 / groove槽线 / outset外凸 / inset内凹 / dotted虚线 / dashed破折线 / ridge脊线
+        # border-top-width：thin/ medium/ thick/ px
+        # border-right-color：
+        # background-image：url（images/*.jpg）或 url（http://*http://*       # background-position：top left/ right bottom/ center
+        # background-repeat：no-repeat/ repeat/ repeat-x/ repeat-y/ inherit（按父元素的设置来处理）
