@@ -1,0 +1,97 @@
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size:small;
+    line-height: 1.5em;
+}
+
+h1, h2 {
+    color: rgba(118, 173, 226, 0.86);
+}
+
+h1 {
+    font-size: 170%;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+strong {
+    margin-left: 35%;
+    margin-right: 20%;
+}
+
+#guarantee {
+    font: italic small/1.9em Georgia, "Times New Roman", Times, Serif;
+    /* font-style、font-weight是可选的，但font-size必须写 */
+
+    background: #ececec url(image/background.gif) no-repeat top left;
+
+    border: white 2px dashed;
+    border-radius: 20px;
+    padding: 25px;
+    padding-left: 60px;
+    margin: 30px;
+    margin-right: 250px;
+
+}
+
+
+/* elixirs<div> */
+#elixirs {
+    border: thin solid #007e7e;
+    width: 200px;
+
+    padding: 0 20px 20px 20px;
+    /* padding 和 margin 的快捷方式的顺序是 “上、右、下、左”一个时钟的顺时针方向 */
+
+    margin-left: 20px;
+
+    text-align: center;
+
+    background: url(image/background2.gif) repeat-x top right;
+
+    float: right;
+}
+
+#elixirs h2 {
+    color: black;
+}
+
+#elixirs h3 {
+    color: #d12c47;
+}
+
+#elixirs p {
+    line-height: 1.5em;
+}
+
+#copyright {
+    font-size: 50%;
+    text-align: center;
+    line-height: normal;
+    margin-top: 30px;
+}
+
+.cd {
+    font-style: italic;
+}
+
+.artist {
+    font-weight: bold;
+}
+
+#elixirs a:link {
+    color: #0cb8cc;
+}
+#elixirs a:visited {
+    color: red;
+}
+#elixirs a:hover {
+    background:#16a085;
+    text-decoration: line-through;
+}
+
+p.pseudo a:hover {
+    background: #333333;
+}
