@@ -2,18 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7524c29d-7b3f-4bcc-81f1-8c68ffd600a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/image/background.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/image/emoji (1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/image/img1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/image/img11.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/image/img2.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/image/img3.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/image/img4.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/BulletPoints" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/detailed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/lounge.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap10/lounge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/image/background.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/image/background2.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/image/emoji (1).jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/image/img1.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/image/img11.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/image/img2.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/image/img3.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/image/img4.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/BulletPoints" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/lounge.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap11/lounge.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/chap10/detailed.html" afterPath="$PROJECT_DIR$/chap11/detailed.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chap10/lounge.html" afterPath="$PROJECT_DIR$/chap10/lounge.html" />
     </list>
     <ignored path="HTML_CSS.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,69 +36,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BulletPoints" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap10/BulletPoints">
+      <file leaf-file-name="lounge.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap11/lounge.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="66" lean-forward="false" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="lounge.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap10/lounge.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+            <state relative-caret-position="57">
+              <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#P#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#p#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="lounge.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap10/lounge.css">
+      <file leaf-file-name="BulletPoints" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap11/BulletPoints">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding>
-                <element signature="e#5#109#0" expanded="false" />
-                <element signature="e#118#159#0" expanded="false" />
-                <element signature="e#164#188#0" expanded="false" />
-                <element signature="e#193#218#0" expanded="false" />
-                <element signature="e#227#275#0" expanded="false" />
-                <element signature="e#288#627#0" expanded="false" />
-                <element signature="e#946#967#0" expanded="false" />
-                <element signature="e#981#1004#0" expanded="false" />
-                <element signature="e#1017#1044#0" expanded="false" />
-                <element signature="e#1057#1151#0" expanded="false" />
-                <element signature="e#1157#1184#0" expanded="false" />
-                <element signature="e#1194#1220#0" expanded="false" />
-                <element signature="e#1238#1261#0" expanded="false" />
-                <element signature="e#1281#1300#0" expanded="false" />
-                <element signature="e#1318#1380#0" expanded="false" />
-                <element signature="e#1399#1427#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="475">
+              <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -118,7 +81,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/chap1/index.html" />
         <option value="$PROJECT_DIR$/chap1/mission.html" />
         <option value="$PROJECT_DIR$/chap1/Introduction" />
@@ -166,6 +128,10 @@
         <option value="$PROJECT_DIR$/chap10/BulletPoints" />
         <option value="$PROJECT_DIR$/chap10/lounge.css" />
         <option value="$PROJECT_DIR$/chap10/lounge.html" />
+        <option value="$PROJECT_DIR$/chap11/detailed.html" />
+        <option value="$PROJECT_DIR$/chap11/lounge.html" />
+        <option value="$PROJECT_DIR$/chap11/lounge.css" />
+        <option value="$PROJECT_DIR$/chap11/BulletPoints" />
       </list>
     </option>
   </component>
@@ -223,7 +189,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="chap10" />
+              <option name="myItemId" value="chap11" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -255,15 +221,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GitHub\HTML_CSS\chap11" />
+      <recent name="C:\GitHub\HTML_CSS\chap2\lounge" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\HTML_CSS\chap11" />
       <recent name="C:\GitHub\HTML_CSS\chap10\image" />
       <recent name="C:\GitHub\HTML_CSS\chap10" />
       <recent name="C:\GitHub\HTML_CSS\chap8" />
       <recent name="C:\GitHub\HTML_CSS\chap7" />
-      <recent name="C:\GitHub\HTML_CSS\chap4" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\GitHub\HTML_CSS\chap2\lounge" />
     </key>
   </component>
   <component name="RunManager">
@@ -485,6 +452,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7524c29d-7b3f-4bcc-81f1-8c68ffd600a1" name="Default" comment="" />
@@ -542,29 +512,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap3/journal/quote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap2/zhang/zhang.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap1/Introduction" />
-    <entry file="file://$PROJECT_DIR$/chap1/mission.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="7" lean-forward="false" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap2/lounge/about/elixir.html" />
     <entry file="file://$PROJECT_DIR$/chap2/lounge/lounge.html" />
     <entry file="file://$PROJECT_DIR$/chap2/zhang/images/icon/QQ4.ico" />
     <entry file="file://$PROJECT_DIR$/chap2/zhang/about/icons.html">
@@ -816,18 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#5;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#6;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#7;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#8;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -835,13 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
           <caret line="23" column="58" lean-forward="false" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="58" />
-          <folding>
-            <element signature="e#5#109#0" expanded="false" />
-            <element signature="e#118#159#0" expanded="false" />
-            <element signature="e#164#188#0" expanded="false" />
-            <element signature="e#193#218#0" expanded="false" />
-            <element signature="e#226#274#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -849,15 +777,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="485">
           <caret line="40" column="66" lean-forward="false" selection-start-line="40" selection-start-column="66" selection-end-line="40" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap10/detailed.html">
+    <entry file="file://$PROJECT_DIR$/chap10/lounge.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="7" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-          <folding />
+        <state relative-caret-position="304">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap10/lounge.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="31" column="45" lean-forward="false" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -865,60 +798,80 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
           <caret line="23" column="66" lean-forward="false" selection-start-line="23" selection-start-column="66" selection-end-line="23" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap10/lounge.css">
+    <entry file="file://$PROJECT_DIR$/chap11/detailed.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+        <state relative-caret-position="285">
+          <caret line="15" column="7" lean-forward="false" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/image/background2.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/image/background.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/lounge.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="110" column="51" lean-forward="false" selection-start-line="110" selection-start-column="51" selection-end-line="110" selection-end-column="51" />
           <folding>
             <element signature="e#5#109#0" expanded="false" />
             <element signature="e#118#159#0" expanded="false" />
             <element signature="e#164#188#0" expanded="false" />
             <element signature="e#193#218#0" expanded="false" />
-            <element signature="e#227#275#0" expanded="false" />
-            <element signature="e#288#627#0" expanded="false" />
-            <element signature="e#946#967#0" expanded="false" />
-            <element signature="e#981#1004#0" expanded="false" />
-            <element signature="e#1017#1044#0" expanded="false" />
-            <element signature="e#1057#1151#0" expanded="false" />
-            <element signature="e#1157#1184#0" expanded="false" />
-            <element signature="e#1194#1220#0" expanded="false" />
-            <element signature="e#1238#1261#0" expanded="false" />
-            <element signature="e#1281#1300#0" expanded="false" />
-            <element signature="e#1318#1380#0" expanded="false" />
-            <element signature="e#1399#1427#0" expanded="false" />
+            <element signature="e#230#278#0" expanded="false" />
+            <element signature="e#289#381#0" expanded="false" />
+            <element signature="e#447#503#0" expanded="false" />
+            <element signature="e#559#897#0" expanded="false" />
+            <element signature="e#928#1021#0" expanded="false" />
+            <element signature="e#1035#1056#0" expanded="false" />
+            <element signature="e#1070#1093#0" expanded="false" />
+            <element signature="e#1106#1133#0" expanded="false" />
+            <element signature="e#1151#1174#0" expanded="false" />
+            <element signature="e#1194#1213#0" expanded="false" />
+            <element signature="e#1231#1293#0" expanded="false" />
+            <element signature="e#1307#1510#0" expanded="false" />
+            <element signature="e#1516#1543#0" expanded="false" />
+            <element signature="e#1553#1579#0" expanded="false" />
+            <element signature="e#1598#1626#0" expanded="false" />
+            <element signature="e#1630#1660#0" expanded="false" />
+            <element signature="e#1721#1830#0" expanded="false" />
+            <element signature="e#1869#1946#0" expanded="false" />
+            <element signature="e#1958#1998#0" expanded="false" />
+            <element signature="e#2008#2096#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap10/lounge.html">
+    <entry file="file://$PROJECT_DIR$/chap11/lounge.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="65" lean-forward="false" selection-start-line="8" selection-start-column="65" selection-end-line="8" selection-end-column="65" />
+        <state relative-caret-position="57">
+          <caret line="7" column="2" lean-forward="true" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#P#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#2;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#3;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#4;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#0;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#2;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#3;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#li#4;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#p#2;n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap11/BulletPoints">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="39" lean-forward="true" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+          <folding />
         </state>
       </provider>
     </entry>

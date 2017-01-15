@@ -1,0 +1,136 @@
+body {
+    font-family: Verdana, Helvetica, Arial, sans-serif;
+    font-size:small;
+    line-height: 1.5em;
+}
+
+h1, h2 {
+    color: rgba(118, 173, 226, 0.86);
+}
+
+h1 {
+    font-size: 170%;
+}
+
+h2 {
+    font-size: 1.6em;
+}
+
+
+#header1 {
+    margin-left: 35%;
+    margin-right: 40%;
+}
+
+#header2 {
+    position: fixed; /* 这个是固定位置，无论页面如何滚动，它都存在与页面的固定位置上 */
+    top: 300px;
+    left: 0px;
+}  /* position: fixed; 这个是固定位置，无论页面如何滚动，它都存在与页面的固定位置上 */
+
+#header3 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}  /* position: absolute; 这个是相对位置，页面滚动会消失*/
+
+
+#guarantee {
+    font: italic small/1.9em Georgia, "Times New Roman", Times, Serif;
+    /* font-style、font-weight是可选的，但font-size必须写 */
+
+    background: #ececec url(image/background.gif) no-repeat top left;
+
+    border: white 2px dashed;
+    border-radius: 20px;
+    padding: 25px;
+    padding-left: 60px;
+    margin: 30px;
+    margin-right: 50px;
+
+}
+
+
+/* elixirs<div> */
+#sidebar {
+    display: table-cell;
+    font-size: 105%;
+    padding: 15px;
+    vertical-align: top;
+}
+
+#sidebar h2 {
+    color: black;
+}
+
+#sidebar h3 {
+    color: #d12c47;
+}
+
+#sidebar p {
+    line-height: 1.5em;
+}
+
+#sidebar a:link {
+    color: #0cb8cc;
+}
+#sidebar a:visited {
+    color: red;
+}
+#sidebar a:hover {
+    background:#16a085;
+    text-decoration: line-through;
+}
+
+
+#copyright {
+    font-size: 50%;
+    color: #b9311b;
+    font-weight: bold;
+    text-align: center;
+    line-height: normal;
+    clear: both;
+    /* clear属性不允许有浮动；而float则就是要浮动元素 */
+    margin: 0px 10px 10px 10px;
+}
+
+.cd {
+    font-style: italic;
+}
+
+.artist {
+    font-weight: bold;
+}
+
+p.pseudo a:hover {
+    background: #333333;
+}
+
+a {
+    text-decoration: none;
+} /* 去掉超链接下面的 下划线（underline） text-decoration: none; */
+
+#main {
+    display: table-cell; /* 作为表格单元格显示 */
+    font-size: 105%;
+    padding: 15px;
+    vertical-align: top;
+}
+
+
+/* 使用 CSS 创建表格显示 */
+#tableContainer {
+    display: table; /* 表格显示 */
+    border-spacing: 10px; /* 可以看作是单元格边框 */
+}
+
+#tableRow {
+    display: table-row; /* 表格中的一行 */
+}
+
+#drinks {
+    display: table-cell;
+    width: 15%;
+    vertical-align: top;
+    padding: 15px;
+}
