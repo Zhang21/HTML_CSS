@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7524c29d-7b3f-4bcc-81f1-8c68ffd600a1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/image/background.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/image/background2.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/image/emoji (1).jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/image/img1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/image/img11.PNG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/image/img2.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/image/img3.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/image/img4.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/BulletPoints" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/blog.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/detailed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/lounge.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap12/lounge.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/images/teemo.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/BulletPoints" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/css/journal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/journal/elements.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/journal/journal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap13/journal/quote.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTML_CSS.iws" />
@@ -37,10 +30,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="BulletPoints" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap12/BulletPoints">
+        <entry file="file://$PROJECT_DIR$/chap13/BulletPoints">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            <state relative-caret-position="513">
+              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -63,10 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chap2/lounge/about/elixir.html" />
-        <option value="$PROJECT_DIR$/chap2/lounge/lounge.html" />
-        <option value="$PROJECT_DIR$/chap2/zhang/about/icons.html" />
-        <option value="$PROJECT_DIR$/chap2/zhang/about/teemo.html" />
         <option value="$PROJECT_DIR$/chap2/zhang/about/duola.html" />
         <option value="$PROJECT_DIR$/chap2/zhang/BulletPoints" />
         <option value="$PROJECT_DIR$/chap3/jourual/jourual.py" />
@@ -114,6 +103,10 @@
         <option value="$PROJECT_DIR$/chap12/lounge.html" />
         <option value="$PROJECT_DIR$/chap12/lounge.css" />
         <option value="$PROJECT_DIR$/chap12/BulletPoints" />
+        <option value="$PROJECT_DIR$/chap13/table.html" />
+        <option value="$PROJECT_DIR$/chap13/journal/journal.html" />
+        <option value="$PROJECT_DIR$/chap13/css/journal.css" />
+        <option value="$PROJECT_DIR$/chap13/BulletPoints" />
       </list>
     </option>
   </component>
@@ -148,7 +141,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,8 +153,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_CSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HTML_CSS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chap13" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -189,16 +196,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GitHub\HTML_CSS\chap12" />
-      <recent name="C:\GitHub\HTML_CSS\chap11" />
-      <recent name="C:\GitHub\HTML_CSS\chap10\image" />
-      <recent name="C:\GitHub\HTML_CSS\chap10" />
-      <recent name="C:\GitHub\HTML_CSS\chap8" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GitHub\HTML_CSS\chap11" />
       <recent name="C:\GitHub\HTML_CSS\chap2\lounge" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\HTML_CSS\chap13\images" />
+      <recent name="C:\GitHub\HTML_CSS\chap13" />
+      <recent name="C:\GitHub\HTML_CSS\chap12" />
+      <recent name="C:\GitHub\HTML_CSS\chap11" />
+      <recent name="C:\GitHub\HTML_CSS\chap10\image" />
     </key>
   </component>
   <component name="RunManager">
@@ -437,7 +444,7 @@
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12737921" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19619326" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32680723" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -480,50 +487,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chap2/zhang/about/duola.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap2/zhang/BulletPoints">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap3/jourual/jourual.py" />
-    <entry file="file://$PROJECT_DIR$/chap3/jourual/jourual.html" />
-    <entry file="file://$PROJECT_DIR$/chap3/BulletPoints">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="518">
-          <caret line="29" column="19" lean-forward="false" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap3/journal/elements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="31" column="33" lean-forward="false" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap3/journal/quote.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="30" lean-forward="false" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap3/journal/journal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap4/BulletPoints">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -802,17 +765,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
           <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#1;n#article#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#P#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#p#0;n#article#1;n#section#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#aside#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -820,34 +772,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="988">
           <caret line="138" column="10" lean-forward="false" selection-start-line="138" selection-start-column="10" selection-end-line="138" selection-end-column="10" />
-          <folding>
-            <element signature="e#5#109#0" expanded="false" />
-            <element signature="e#118#159#0" expanded="false" />
-            <element signature="e#164#188#0" expanded="false" />
-            <element signature="e#193#218#0" expanded="false" />
-            <element signature="e#232#280#0" expanded="false" />
-            <element signature="e#293#631#0" expanded="false" />
-            <element signature="e#659#752#0" expanded="false" />
-            <element signature="e#763#784#0" expanded="false" />
-            <element signature="e#795#818#0" expanded="false" />
-            <element signature="e#828#855#0" expanded="false" />
-            <element signature="e#864#887#0" expanded="false" />
-            <element signature="e#898#917#0" expanded="false" />
-            <element signature="e#926#988#0" expanded="false" />
-            <element signature="e#998#1201#0" expanded="false" />
-            <element signature="e#1207#1234#0" expanded="false" />
-            <element signature="e#1244#1270#0" expanded="false" />
-            <element signature="e#1289#1317#0" expanded="false" />
-            <element signature="e#1321#1351#0" expanded="false" />
-            <element signature="e#1412#1521#0" expanded="false" />
-            <element signature="e#1560#1637#0" expanded="false" />
-            <element signature="e#1649#1689#0" expanded="false" />
-            <element signature="e#1699#1787#0" expanded="false" />
-            <element signature="e#1794#1839#0" expanded="false" />
-            <element signature="e#1845#1905#0" expanded="false" />
-            <element signature="e#1913#1994#0" expanded="false" />
-            <element signature="e#2005#2128#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -855,6 +779,84 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
           <caret line="21" column="38" lean-forward="false" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="54" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/image/background.gif">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/image/img1.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap12/image/img2.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/images/img1.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/css/journal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="67" column="13" lean-forward="false" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          <folding>
+            <element signature="e#11#231#0" expanded="false" />
+            <element signature="e#238#413#0" expanded="false" />
+            <element signature="e#418#474#0" expanded="false" />
+            <element signature="e#479#528#0" expanded="false" />
+            <element signature="e#537#560#0" expanded="false" />
+            <element signature="e#576#603#0" expanded="false" />
+            <element signature="e#611#761#0" expanded="false" />
+            <element signature="e#769#845#0" expanded="false" />
+            <element signature="e#849#877#0" expanded="false" />
+            <element signature="e#878#944#0" expanded="false" />
+            <element signature="e#986#1014#0" expanded="false" />
+            <element signature="e#1023#1097#0" expanded="false" />
+            <element signature="e#1129#1155#0" expanded="false" />
+            <element signature="e#1175#1233#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/journal/journal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="106" column="7" lean-forward="true" selection-start-line="106" selection-start-column="7" selection-end-line="106" selection-end-column="7" />
+          <folding>
+            <element signature="n#p#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#0;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#1;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#2;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#3;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#4;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#5;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#tr#6;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#table#0;n#td#2;n#tr#6;n#table#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap13/BulletPoints">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>

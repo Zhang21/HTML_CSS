@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "Emblema One";
+    src: url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
+         url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf");
+}
+
+body {
+    margin-right: 20%;
+    margin-left: 20%;
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: small;
+<!--    字体大小建议使用关键字（small、medium），不建议使用像素（px）   -->
+}
+
+h1 {
+    font-size: 200%;
+    font-family: "Emblema One";
+}
+
+h2 {
+    font-size: 140%;
+    font-weight: normal;
+}
+
+h1, h2 {
+    color: #0cb8cc;
+}
+
+blockquote, q {
+    font-style: italic;
+}
+
+table {
+    margin: 0px 20px 0px 20px;
+    border: thin solid black;
+    caption-side: top;
+    /* border-spacing: 0px; */
+    border-collapse: collapse;
+
+}
+th, td {
+    border: thin black dotted;
+    padding: 5px;
+    text-align: center;
+}
+th {
+    background: #cc6600;
+}
+/*下面更好的CSS：nth-child 伪类
+.cellcolor {
+    background: #fcba7a;
+}
+*/
+/* odd:奇数的；even：偶数的 */
+tr:nth-child(odd) {
+    background: #fcba7a;
+}
+caption {
+    font-size: large;
+    padding-bottom: 8px;
+    font-style: italic;
+}
+table table th, table table td {
+    background: white;
+}
+
+
+/* 自定义列表标记 */
+li {
+    list-style-image: url("../images/background.gif");
+}
