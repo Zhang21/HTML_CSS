@@ -1,0 +1,40 @@
+body {
+    background: #efe5d0;
+    margin: 20px;
+    font-family: Georgia, "Times New Roman", Times, Serif;
+}
+
+form {
+    display: table;
+    padding: 10px;
+    border: thin dotted #7e7e7e;
+    background: #e1ceb8;
+    margin: 10px 200px;
+}
+
+form textarea {
+    width: 500px;
+    height: 150px;
+}
+
+div.tableRow {
+    display: table-row;
+}
+
+div.tableRow p {
+    display: table-cell;
+    vertical-align: top;
+    padding: 3px;
+}
+
+div.tableRow p:first-child {
+    text-align: right;
+}
+
+p.heading {
+    font-weight: bold;
+}
+
+h1, h2 {
+    text-align: center;
+}

@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>HTML Form</title>
+    <link rel="stylesheet" href="styleform.css">
+</head>
+<body>
+    <h1>张彬的咖啡订购室</h1>
+    <h2>填写表单信息后点击订购</h2>
+    <form action="http://starbuzzcoffee.com/processorder.php" method="post">
+        <div class="tableRow">
+            <p>Choose your beans: </p>
+            <p>
+            <select name="beans">
+                <option value="House Blend">House Blend</option>
+                <option value="Bolivia">Bolivia</option>
+                <option value="Guatemala">Guatemala</option>
+                <option value="Kenya">Kenya</option>
+            </select>
+            </p>
+        </div>
+        <div class="tableRow">
+        <p>Type: </p>
+            <p>
+                <input type="radio" name="beantype" value="whole">Whole Bean<br>
+                <input type="radio" name="beantype" value="ground" checked>Ground
+            </p>
+        </div>
+        <div class="tableRow">
+            <p>Number of bags: </p>
+            <p><input type="number" name="bags" min="1" max="20" required></p>
+        </div>
+        <div class="tableRow">
+            <p>Must arrive by date: </p>
+            <p><input type="date" name="date"></p>
+        </div>
+        <div class="tableRow">
+            <p>Extras:</p>
+            <p>
+            <input type="checkbox" name="extras[]" value="giftwrap">Gift Wrap<br>
+            <input type="checkbox" name="extras[]" value="catalog">Include catalog with order<br>
+            <input type="checkbox" name="extras[]" value="wonderful">Wonderful
+            </p>
+        </div>
+        <div class="tableRow">
+            <p class="heading">Ship to: </p>
+        </div>
+        <div class="tableRow">
+            <p>Name: </p>
+            <p><input type="text" name="name" value=""></p>
+        </div>
+        <div class="tableRow">
+            <p>Address: </p>
+            <p><input type="text" name="address" value="" required></p>
+        </div>
+        <div class="tableRow">
+            <p>City: </p>
+            <p><input type="text" name="city" value=""></p>
+        </div>
+        <div class="tableRow">
+            <p>State: </p>
+            <p><input type="text" name="state" value=""></p>
+        </div>
+        <div class="tableRow">
+            <p>Zip: </p>
+            <p><input type="text" name="zip" value=""></p>
+        </div>
+        <div class="tableRow">
+            <p>Email: </p>
+            <p><input type="email" name="email" value="" placeholder="someone@example.com"></p>
+        </div>
+        <div class="tableRow">
+            <p>Phone: </p>
+            <p><input type="tel" name="phone" value="" required></p>
+        </div>
+        <div class="tableRow">
+            <p>Choose files</p>
+            <p><input type="file" name="file"></p>
+        </div>
+        <div class="tableRow">
+            <p>Customer Comments: </p>
+            <p><textarea name="comments"></textarea></p>
+        </div>
+        <div class="tableRow">
+            <p></p>
+            <p><input type="submit" value=" 订 购 "></p>
+        </div>
+    </form>
+</body>
+</html>
